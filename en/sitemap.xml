@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nakajolab.github.io/demo-website/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://nakajolab.github.io/demo-website/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nakajolab.github.io/demo-website/en/categories/"
+                href="/en/categories/"
                 />
   </url><url>
-    <loc>https://nakajolab.github.io/demo-website/en/</loc>
+    <loc>/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://nakajolab.github.io/demo-website/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nakajolab.github.io/demo-website/en/"
+                href="/en/"
                 />
   </url><url>
-    <loc>https://nakajolab.github.io/demo-website/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://nakajolab.github.io/demo-website/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nakajolab.github.io/demo-website/en/tags/"
+                href="/en/tags/"
                 />
   </url>
 </urlset>
