@@ -2,183 +2,183 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/members/2021/</loc>
+    <loc>/demo-website/members/2021/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2022/</loc>
+    <loc>/demo-website/post/2022/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/</loc>
+    <loc>/demo-website/members/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/demo-website/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="/demo-website/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/"
+                href="/demo-website/"
                 />
   </url><url>
-    <loc>/post/</loc>
+    <loc>/demo-website/post/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2020/</loc>
+    <loc>/demo-website/members/2020/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2021/</loc>
+    <loc>/demo-website/post/2021/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2019/</loc>
+    <loc>/demo-website/members/2019/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2020/</loc>
+    <loc>/demo-website/post/2020/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2018/</loc>
+    <loc>/demo-website/members/2018/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2019/</loc>
+    <loc>/demo-website/post/2019/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2017/</loc>
+    <loc>/demo-website/members/2017/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2018/</loc>
+    <loc>/demo-website/post/2018/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2016/</loc>
+    <loc>/demo-website/members/2016/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2017/</loc>
+    <loc>/demo-website/post/2017/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2015/</loc>
+    <loc>/demo-website/members/2015/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2016/</loc>
+    <loc>/demo-website/post/2016/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2014/</loc>
+    <loc>/demo-website/members/2014/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2015/</loc>
+    <loc>/demo-website/post/2015/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2013/</loc>
+    <loc>/demo-website/members/2013/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2014/</loc>
+    <loc>/demo-website/post/2014/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2012/</loc>
+    <loc>/demo-website/members/2012/</loc>
     <lastmod>2013-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2013/</loc>
+    <loc>/demo-website/post/2013/</loc>
     <lastmod>2013-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2011/</loc>
+    <loc>/demo-website/members/2011/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2012/</loc>
+    <loc>/demo-website/post/2012/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2010/</loc>
+    <loc>/demo-website/members/2010/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2011/</loc>
+    <loc>/demo-website/post/2011/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2009/</loc>
+    <loc>/demo-website/members/2009/</loc>
     <lastmod>2010-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2010/</loc>
+    <loc>/demo-website/post/2010/</loc>
     <lastmod>2010-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2008/</loc>
+    <loc>/demo-website/members/2008/</loc>
     <lastmod>2009-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2009/</loc>
+    <loc>/demo-website/post/2009/</loc>
     <lastmod>2009-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2007/</loc>
+    <loc>/demo-website/members/2007/</loc>
     <lastmod>2008-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2008/</loc>
+    <loc>/demo-website/post/2008/</loc>
     <lastmod>2008-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2006/</loc>
+    <loc>/demo-website/members/2006/</loc>
     <lastmod>2007-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2007/</loc>
+    <loc>/demo-website/post/2007/</loc>
     <lastmod>2007-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2005/</loc>
+    <loc>/demo-website/members/2005/</loc>
     <lastmod>2006-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2006/</loc>
+    <loc>/demo-website/post/2006/</loc>
     <lastmod>2006-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2004/</loc>
+    <loc>/demo-website/members/2004/</loc>
     <lastmod>2005-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2005/</loc>
+    <loc>/demo-website/post/2005/</loc>
     <lastmod>2005-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2003/</loc>
+    <loc>/demo-website/members/2003/</loc>
     <lastmod>2004-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2004/</loc>
+    <loc>/demo-website/post/2004/</loc>
     <lastmod>2004-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2002/</loc>
+    <loc>/demo-website/members/2002/</loc>
     <lastmod>2003-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2003/</loc>
+    <loc>/demo-website/post/2003/</loc>
     <lastmod>2003-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2001/</loc>
+    <loc>/demo-website/members/2001/</loc>
     <lastmod>2002-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/members/2000/</loc>
+    <loc>/demo-website/members/2000/</loc>
     <lastmod>2001-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>/demo-website/about/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/demo-website/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/demo-website/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/categories/"
+                href="/demo-website/categories/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/demo-website/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/demo-website/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/tags/"
+                href="/demo-website/tags/"
                 />
   </url><url>
-    <loc>/links/</loc>
+    <loc>/demo-website/links/</loc>
   </url><url>
-    <loc>/links/academic/</loc>
+    <loc>/demo-website/links/academic/</loc>
   </url><url>
-    <loc>/links/corporate/</loc>
+    <loc>/demo-website/links/corporate/</loc>
   </url><url>
-    <loc>/studies/</loc>
+    <loc>/demo-website/studies/</loc>
   </url>
 </urlset>
