@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://www.nj.cs.tuat.ac.jp/demo-website/ja/sitemap.xml</loc>
+    <loc>/demo-website/ja/sitemap.xml</loc>
     
       <lastmod>2022-10-26T22:24:51+09:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://www.nj.cs.tuat.ac.jp/demo-website/en/sitemap.xml</loc>
+    <loc>/demo-website/en/sitemap.xml</loc>
     
   </sitemap>
   

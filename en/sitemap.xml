@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.nj.cs.tuat.ac.jp/demo-website/en/categories/</loc>
+    <loc>/demo-website/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.nj.cs.tuat.ac.jp/demo-website/categories/"
+                href="/demo-website/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.nj.cs.tuat.ac.jp/demo-website/en/categories/"
+                href="/demo-website/en/categories/"
                 />
   </url><url>
-    <loc>http://www.nj.cs.tuat.ac.jp/demo-website/en/</loc>
+    <loc>/demo-website/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.nj.cs.tuat.ac.jp/demo-website/"
+                href="/demo-website/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.nj.cs.tuat.ac.jp/demo-website/en/"
+                href="/demo-website/en/"
                 />
   </url><url>
-    <loc>http://www.nj.cs.tuat.ac.jp/demo-website/en/tags/</loc>
+    <loc>/demo-website/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.nj.cs.tuat.ac.jp/demo-website/tags/"
+                href="/demo-website/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.nj.cs.tuat.ac.jp/demo-website/en/tags/"
+                href="/demo-website/en/tags/"
                 />
   </url>
 </urlset>
