@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>行事 on 中條研究室</title>
-    <link>http://www.nj.cs.tuat.ac.jp/event/</link>
+    <link>http://www.nj.cs.tuat.ac.jp/demo-website/event/</link>
     <description>Recent content in 行事 on 中條研究室</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language><atom:link href="http://www.nj.cs.tuat.ac.jp/event/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language><atom:link href="http://www.nj.cs.tuat.ac.jp/demo-website/event/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
